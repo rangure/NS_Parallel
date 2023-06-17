@@ -1,0 +1,11 @@
+Nx 201
+Ny 101
+Lx 0.1
+Ly 0.05
+rho 1000
+nu 1e-6
+P_max 0.5
+t_end 50.0
+dt_min 1.e-3
+courant 0.01
+dt_out 0.5
